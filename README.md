@@ -19,3 +19,4 @@ A tabela é mostrada de forma clara e interativa, sendo uma ferramenta útil par
 ## Objetivo
 
 Este projeto tem como objetivo ajudar na visualização e consulta rápida da Tabela Periódica, uma ferramenta essencial para estudantes e profissionais de Química. Ele foi feito de maneira simples e direta, para ser fácil de usar por qualquer pessoa.
+ 
